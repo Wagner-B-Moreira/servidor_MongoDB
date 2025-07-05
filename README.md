@@ -1,2 +1,4 @@
-# servidor_MongoDB
-Servidor backend simples e eficiente utilizando Node.js, Express e MongoDB. Este projeto demonstra a criação de uma API RESTful com conexão ao banco de dados MongoDB, utilizando Mongoose para modelagem dos dados e manipulação fácil dos documentos. Ideal para aprendizado e base para projetos Full Stack, com boas práticas de organização e estrutura.
+# Cdastro_banco_nodejs
+Projeto backend simples desenvolvido em Node.js utilizando o framework Express. Implementa um servidor básico que responde a requisições HTTP, ideal para aprendizado de criação de APIs RESTful e fundamentos do desenvolvimento backend com JavaScript puro, sem banco de dados.
+
+
